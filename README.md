@@ -4,6 +4,10 @@
 
 [n8n](https://www.n8n.io) node for interacting with the [AWS Step Functions](https://docs.aws.amazon.com/step-functions/latest/apireference/Welcome.html) API.
 
+## This fork changes
+- Included aws-sdk as a dependency
+- Upgraded libraries
+
 ## How to install
 
 ### Community Nodes (Recommended)
