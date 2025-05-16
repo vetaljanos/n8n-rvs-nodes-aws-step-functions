@@ -7,6 +7,7 @@
 ## This fork changes
 - Included aws-sdk as a dependency
 - Upgraded libraries
+- Node can be installed by `n8n-nodes-rvs-aws-step-functions`
 
 ## How to install
 
